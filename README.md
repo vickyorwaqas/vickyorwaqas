@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Waqas (VickyOrWaqas) 👋
 
-<!--
-**vickyorwaqas/vickyorwaqas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | SEO Specialist | Graphic Designer
 
-Here are some ideas to get you started:
+📍 Based in Lar, Punjab, Pakistan — working online with clients across Pakistan and worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- 🌐 Website Design & Development — business websites, WordPress websites and online stores
+- 🔍 SEO — Google ranking, Local SEO and Google Business Profile setup & optimization
+- 🎨 Graphic Design — logos, banners, social media designs and branding
+
+## My focus
+Honest prices, friendly service and clean, quality work that actually brings customers.
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/vickyorwaqas/
+- Facebook: https://www.facebook.com/vickyorwaqas
+- Instagram: https://www.instagram.com/vickyorwaqas/
+- Email: vickyorwaqas@gmail.com
+
+✨ Open to freelance projects and remote work.
